@@ -1,0 +1,20 @@
+{
+  "name": "splash-pages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch index.scss:index.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loujaybee/splash-pages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loujaybee/splash-pages/issues"
+  },
+  "homepage": "https://github.com/loujaybee/splash-pages#readme"
+}
